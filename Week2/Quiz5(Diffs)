@@ -1,0 +1,38 @@
+Diffs
+TOTAL POINTS 5
+
+1.Question 1
+If there are two branches, br1 and br2, showing all differences between them can be done with:
+
+git diff --show br1 br2
+git diff br1 br2 [@]
+
+2.Question 2
+Showing which files have changed between two branches can be done with (Select all answers that apply):
+
+git diff --numstat br1 br2  [@]
+git diff --pretty br1 br2
+git diff --show br1 br2  []
+git diff --stat br1 br2 [@]
+
+3.Question 3
+Showing all differences between the current working tree and the last commit can be done with:
+
+git diff
+git diff --latest []
+git diff --working []
+git diff --clean  []
+
+4.Question 4
+In the command git diff tag1 name2, if tag1 is a tag, name2 can be a (select all correct answers):
+
+a previous commit identifier  [@]
+a branch name [@]
+another tag  [@]
+
+5.Question 5
+How can you see the differences in file1 between tag1 and tag2?
+
+git diff file1 tag1 tag2 []
+git diff tag1 tag2 file1  [@]
+git diff tag1 file1 tag2

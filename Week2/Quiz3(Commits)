@@ -1,0 +1,41 @@
+Commits
+TOTAL POINTS 5
+
+1.Question 1
+What does the command git revert c87e6ae4 do?
+
+Has no effect
+Places the repository where it was after commit c87e6ae4 but does not revert later changes
+Removes the changes associated with the commit that starts with c87e6ae4 [Correct]
+Removes all changes and history after commit c87e6ae4
+
+2.Question 2
+To see which files have changed and what the exact changes are, do:
+
+git log
+git log --pretty=oneline
+git log --numstat
+git log -p [Correct]
+
+3.Question 3
+Some time over the past 1000 commits, a change was introduced that caused a program to fail. Assuming you have a good test to establish a bad version, what is the largest number of bisects that should be needed to locate the commit containing the defective patch?
+
+32
+8 []
+2
+16
+10
+4
+
+4.Question 4
+In the command git gc, what does gc stand for?
+generic concentration
+garbage collection [Correct] 
+GNU cleanup
+garbage corruption
+
+5.Question 5
+The command git blame some_file:
+Evaluates whether the error is due to a problem with some_file.
+Finds some obvious errors in some_file
+Tells you where every line in some_file came from by date and author  [Correct]

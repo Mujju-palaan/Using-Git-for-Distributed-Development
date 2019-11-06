@@ -1,0 +1,37 @@
+Using Patches
+TOTAL POINTS 5
+
+1.Question 1
+To get all patches between your current branch and the master branch, do:
+
+
+git format-patch master  [@]
+git format-patch --all master
+
+2.Question 2
+The best way to form patches for use with git is to:
+
+Use diff -Nur
+Work in a text editor while comparing sources
+Use git-format-patch  [@]
+
+3.Question 3
+In modern advanced distributed projects, submitting patches through email is:
+
+Something only used for relatively simple submissions, often to subsystem maintainers  [@]
+Prohibited
+The best procedure, lowest common denominator, since not everyone has git
+
+
+4.Question 4
+When applying patches:
+
+It is a good idea to test first with the --dry-run option
+It is good to use the --force option []
+It is good to use the --interactive option []
+
+5.Question 5
+Select the true statement:
+
+[@] Most modern email clients do not have built-in support for git, so one needs to worry about whitespace, line-wrapping and other potential problems
+Most modern email clients have built-in support for git, so one need not worry about whitespace, line-wrapping and other potential problems

@@ -1,0 +1,40 @@
+Branches
+TOTAL POINTS 5
+
+1.Question 1
+In Git, branching is the inverse process to:
+
+merging @
+committing
+forking
+pushing
+
+2.Question 2
+A detailed branching history can be shown by:
+
+git branch show
+git show branch
+git branch --show
+git show-branch @
+
+3.Question 3
+To examine an earlier version of a file in commit 3888bc981a, do:
+
+git display 3888bc981a:kernel/sys.c
+git show 3888bc981a:kernel/sys.c [@]
+git log 3888bc981a kernel/sys.c []
+git show 3888bc981a kernel/sys.c
+
+4.Question 4
+You can list all current branches on the local machine with:
+
+git branch @
+git branch -v
+git branch --list
+
+5.Question 5
+The command git checkout some_branch
+
+Gives some information about some_branch
+Incorporates changes in some_branch into the current branch []
+switches to some_branch [@]

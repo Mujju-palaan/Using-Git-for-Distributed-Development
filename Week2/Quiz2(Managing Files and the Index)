@@ -1,0 +1,5 @@
+1]Is enumerated in a .gitignore
+2]Removes some_file from the working file tree and the index
+3]Removes some_file from working file tree, but not from the repository
+4]git ls-files
+5]Moves(renames)
