@@ -5,7 +5,7 @@ TOTAL POINTS 5
 Gerrit is:
 
 A more advanced replacement for git []
-An enhanced method of using git for more complex projects
+An enhanced method of using git for more complex projects [@]
 
 2.Question 2
 What are some of the advantages of using Gerrit? Select all answers that apply.
@@ -16,18 +16,18 @@ It introduces a more robust layer of code review by potentially mutliple individ
 3.Question 3
 Gerrit works best when:
 
-There is one change per commit
+There is one change per commit [@]
 There are many changes to commit []
 
 4.Question 4
 With Gerrit, contributors submit their work to:
 
-The reviewing layer, rather than fully upstream
+The reviewing layer, rather than fully upstream [@]
 The upstream and then reviewers pick from there []
 
 5.Question 5
 With Gerrit, reviewers:
 
 Work only with the upstream layer []
-Work with both the upstream and contributor layers
+Work with both the upstream and contributor layers [@]
 Work only with the contributor layer []
