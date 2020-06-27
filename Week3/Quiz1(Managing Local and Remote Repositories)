@@ -31,6 +31,6 @@ Is naked and thus hidden from public view []
 5.Question 5
 To make a repository on your machine visible to others across the internet using the git protocol you must:
 
-Configure and enable the httpd service (web server)  []
-Configure and enable the git daemon service
+Configure and enable the httpd service (web server)  
+Configure and enable the git daemon service [@]
 
