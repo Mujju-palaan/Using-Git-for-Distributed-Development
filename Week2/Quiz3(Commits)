@@ -21,10 +21,10 @@ git log -p [Correct]
 Some time over the past 1000 commits, a change was introduced that caused a program to fail. Assuming you have a good test to establish a bad version, what is the largest number of bisects that should be needed to locate the commit containing the defective patch?
 
 32
-8 []
+8 
 2
 16
-10
+10 [Correct]
 4
 
 4.Question 4
